@@ -1415,12 +1415,9 @@ ul {
   .services__text.text__open {
     max-height: 230px; }
   .container {
-    padding-left: 320px;
+    float: right;
+    box-sizing: border-box;
     padding-right: 30px; }
-  .footer .container {
-    padding-left: 344px;
-    padding-right: 30px;
-    box-sizing: content-box; }
   .menu {
     transform: translateX(0);
     background: #FFFFFF;
