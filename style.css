@@ -791,7 +791,7 @@ template {
   align-self: flex-end; }
 
 .swiper-wrapper .swiper-slide {
-  flex-shrink: 1; }
+  flex-shrink: unset; }
 
 .techniks__link {
   width: 224px;
