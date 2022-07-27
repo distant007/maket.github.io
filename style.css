@@ -1396,7 +1396,7 @@ ul {
     width: 97%; } }
 
 @media (min-width: 1440px) {
-  .header__con {
+  .header__container {
     display: none; }
   .header__status {
     margin-left: 160px; }
