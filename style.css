@@ -577,9 +577,7 @@ template {
   background-color: #EAEAEA; }
 
 .footer {
-  padding-left: 16px;
-  position: fixed;
-  bottom: 0; }
+  padding-left: 16px; }
   .footer__info {
     display: flex;
     flex-direction: column;
